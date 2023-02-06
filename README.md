@@ -115,7 +115,7 @@ Let's plot this.
 
 ```
 input:
-cumulative_ret.plot(figsize=(16,8),title='Cumulative return from march to december 2020 for $1 invested
+cumulative_ret.plot(figsize=(16,8),title='Cumulative return from march to december 2020 for $1 invested)
 plt.legend()
 ```
 ```
