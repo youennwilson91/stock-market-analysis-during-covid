@@ -95,7 +95,7 @@ plt.show()
 output:
 ```
 ![1](https://user-images.githubusercontent.com/117467104/216958585-3fbc300c-8d85-4786-bd6f-7ecc9b7ba786.png)
-```
+
 
 Moderna seems the be the company which stock has seen the most fluctuations in 2020, followed by Spotify.
 
@@ -120,6 +120,7 @@ plt.legend()
 ```
 ```
 output:
+```
 ![2](https://user-images.githubusercontent.com/117467104/216961336-2d84d1da-c73d-49f5-8dd8-cbc160a707f9.png)
 
 Without surprise we may see that Moderna has the highest CDR.
